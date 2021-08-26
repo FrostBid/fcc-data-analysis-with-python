@@ -11,7 +11,7 @@ Projects include:
 3. **Medical Data Visualizer**
   - Visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas
   
-4. ** Page View Time Series Visualizer**
+4. **Page View Time Series Visualizer**
   - Visualize time series dataset containing the number of page views each day on the freeCodeCamp.org forum using a line chart, bar chart, and box plots via Pandas, matplotlib, and seaborn. The data visualizations will help to understand the patterns in visits and identify yearly and monthly growth.
   
 5. **Sea Level Predictor**
